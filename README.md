@@ -86,3 +86,7 @@ Need a reliable Laravel developer for a new product, an existing application, or
 I'm open to freelance and remote opportunities involving Laravel, PHP, eCommerce, payment systems, SaaS platforms, admin dashboards, API development, maintenance and performance optimization.
 
 **Send me your requirements or repository context, and I'll propose a practical, safe path forward.**
+
+📧 **Email:** [ionelglavan.dev@gmail.com](mailto:ionelglavan.dev@gmail.com)
+
+🌐 Prefer a team-backed engagement or a full project build? See my studio: [syslora.com](https://syslora.com)
