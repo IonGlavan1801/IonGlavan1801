@@ -78,15 +78,3 @@ Laravel is my primary framework. I also work with Symfony, CodeIgniter, Vue.js, 
 3. Communicate progress and risks consistently
 4. Write clean, testable and documented code
 5. Deliver a smooth deployment and handover
-
-## Let's work together
-
-Need a reliable Laravel developer for a new product, an existing application, or a difficult backend problem?
-
-I'm open to freelance and remote opportunities involving Laravel, PHP, eCommerce, payment systems, SaaS platforms, admin dashboards, API development, maintenance and performance optimization.
-
-**Send me your requirements or repository context, and I'll propose a practical, safe path forward.**
-
-📧 **Email:** [ionelglavan.dev@gmail.com](mailto:ionelglavan.dev@gmail.com)
-
-🌐 Prefer a team-backed engagement or a full project build? See my studio: [syslora.com](https://syslora.com)
